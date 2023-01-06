@@ -1,2 +1,2 @@
 # ad-do-Marketing
-pagina de venda
+Word Press
